@@ -1,0 +1,42 @@
+*{
+    /*css ruleset */
+    margin: 4;
+    padding: 3;
+}
+#myname{
+    padding: 2rem;
+    background-color: blueviolet;
+    color: black;
+    text-align: center;
+    font-size: 3rem;
+}
+#favplace{
+    padding: 1rem;
+    background-color: yellow;
+    color: black;
+    font-size: 2rem;
+}
+#places{
+    padding: 3rem;
+    background-color: red;
+    color: white;
+    font-size: 2rem;
+}
+#favfood{
+    padding: 2rem;
+    background-color: rebeccapurple;
+    color: white;
+    font-size: 2rem;
+}
+#food{
+    padding: 3rem;
+    background-color: yellow;
+    color: white;
+    font-size: 2rem;
+}
+#favsubject{
+    padding: 3rem;
+    background-color: green;
+    color: yellow;
+    font-size: 2rem;
+}
